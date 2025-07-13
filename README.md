@@ -6,7 +6,8 @@
 **Objective**:
 - The primary objective of this project is to develop a classification model that can accurately identify fraudulent credit card transactions. The key focus is on minimizing false negatives and false positives, ensuring both security and user satisfaction.
 
-# Key Concepts:
+**Key Concepts:**
+
 - Machine Learning Classification Algorithms:
   
   Models such as RandomForest, Logistic Regression, SVM, etc., are trained on historical transaction data to learn patterns of fraud.
