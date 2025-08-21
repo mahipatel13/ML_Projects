@@ -1,13 +1,13 @@
 
 **Machine Learnnig Projects**
 
-1. Creditcard:
+**1. Creditcard:**
    - Machine Learning Classification Algorithms: Models such as RandomForest, Logistic Regression, SVM, etc., are trained on historical transaction data to learn patterns of fraud.
 
    - Data Imbalance Handling: Fraud cases are rare compared to normal ones, so techniques like SMOTE, undersampling, or class weighting are often applied.
      
      
-2. Food Delivery (Customer Sagmantation):
+**2. Food Delivery (Customer Sagmantation):**
    
    -  K-Means → Segments customers into K predefined clusters (good for clear, well-separated groups).
 
@@ -16,7 +16,7 @@
    - PCA → Reduces high-dimensional data into fewer components for better clustering & visualization.
      
 
-3. Diebities Risk
+**3. Diebities Risk:**
    - Data Preprocessing → Handled missing/invalid values (0s → NaN → median imputation), scaled features using StandardScaler.
 
    - Class Imbalance → Balanced data using SMOTE to avoid bias toward majority class.
@@ -38,7 +38,7 @@
   - Final model: Accuracy ~0.78, Precision ~0.67, Recall ~0.73, F1 ~0.70.
     
     
-4. Predicting Online Purchase Intent:
+**4. Predicting Online Purchase Intent:**
    - Preprocessing → Encode categorical variables, handle booleans, standardize features.
 
    - Data Split → Stratified sampling for balanced train/test sets.
