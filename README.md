@@ -50,3 +50,13 @@
    - Model Comparison → KNN vs Logistic Regression, Decision Tree, Random Forest.
 
    - Evaluation → Use accuracy curves, confusion matrix, ROC curves, precision, recall, F1, ROC-AUC.
+
+**5. Advertisement Budget and Sales:**
+  - Linear Regression is used because it’s simple, interpretable, fast, and predicts continuous outcomes (sales).
+
+  - Feature Importance → Coefficients reveal which advertising channels (TV, Radio, Newspaper) impact sales most.
+
+  - Baseline Model → Provides a starting point before exploring complex models.
+
+  - Business Problem → Helps optimize ad budget allocation by identifying the most effective channels, reducing waste and boosting sales.
+     
